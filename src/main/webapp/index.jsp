@@ -40,7 +40,7 @@
       <br>
       <span class="badge badge-danger">Hobby: Collecting cards</span>
       <br>
-      <span class="badge badge-warning">Favouritate Programming Language: Javascript, SQL</span>
+      <span class="badge badge-warning">Favourite Programming Language: Javascript, SQL</span>
       <!-- You only need to change these information, ends here! -->
       
 
